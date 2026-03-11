@@ -1,4 +1,5 @@
-<h1 align="center">Assalamualaikum 👋 I'm Sharjil Bin Rashed</h1>
+<h1 align="center">Assalamualaikum.
+  I'm Sharjil Bin Rashed</h1>
 <h3 align="center">📊 Data Analyst Enthusiast | Aspiring Data Professional</h3>
 
 ## 👨‍💻 About Me  
